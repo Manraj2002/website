@@ -1,0 +1,26 @@
+
+h1{
+    color: #7a4343;
+    background-color: hotpink;
+    font-family: fantasy;
+}
+body{
+    background-color: burlywood;
+    font-family: monospace;
+    font-size: 15px;
+}
+#basic{
+    color: crimson;
+    font-family: cursive;
+    font-size: 20px;
+}
+#basic1{
+    color: rgb(57, 50, 95);
+    font-family: sans-serif;
+    font-size: 25px;
+}
+#basic2{
+    color: rgb(20, 220, 63);
+    font-family: serif;
+    font-size: 30px;
+}
